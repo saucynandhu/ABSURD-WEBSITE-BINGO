@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Absurd Website Bingo</title>
+    <link rel="stylesheet" href="style.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,400;0,700;1,400&display=swap");
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <button class="dark-mode-toggle" id="darkModeToggle">🖤</button>
+      <h1>🌐 ABSURD WEBSITE BINGO 🎰</h1>
+      <h2>How many weird websites have you visited?</h2>
+
+      <div class="bingo-card">
+        <div class="bingo-header">
+          <div class="header-cell">W</div>
+          <div class="header-cell">E</div>
+          <div class="header-cell">I</div>
+          <div class="header-cell">R</div>
+          <div class="header-cell">D</div>
+        </div>
+        <div id="bingoGrid" class="bingo-grid"></div>
+      </div>
+      <div class="controls">
+        <button id="newGameBtn">🌀 New Card</button>
+        <button id="callWebsiteBtn">📢 Call Website</button>
+        <div id="calledWebsites">Called: <span class="placeholder"></span></div>
+      </div>
+      <div id="winMessage" class="win-message"></div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
