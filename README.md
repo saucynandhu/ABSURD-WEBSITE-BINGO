@@ -21,15 +21,26 @@ And maybe a social experiment. But mostly a bad idea done really well.
 - 🧠 Surreal vibes & dark UI, like late-night Wikipedia spirals
 - 🏆 Win condition? We don’t even know. But you’ll feel it in your bones.
 
-## 🧪 Sample Squares
-
-- [`howlongtocookanegg.io`](https://example.com)  
-- [`honkify.life`](https://example.com)  
-- [`isitchickentimeyet.biz`](https://example.com)  
-- [`thefloorislava.xyz`](https://example.com)  
-- [`404butmakeitart.net`](https://example.com)
-
 > Pro tip: some links work. Some don’t. That’s part of the magic.
+
+## 🤡 Contributing
+Want to add your own absurd fake/funny website?
+
+- Fork the repo
+- Add it to the webs.json
+- Bonus points for funny domain extensions (.ninja, .pizza, .horse)
+
+📣 Warning: If it's actually useful or makes sense, it will be removed.
+
+⚠️ Disclaimer
+This is for entertainment. Some links might be dead, broken, fake, or haunted.
+Click responsibly. Or don’t. We’re not your parents.
+
+🧙‍♂️ License
+MIT – Make your own cursed bingos. Just give us a shout-out if it goes viral.
+
+🕳️ Bigno: It’s not about winning. It’s about discovering how weird the internet really is.
+
 
 ## 🚀 Run Locally
 
@@ -37,3 +48,4 @@ And maybe a social experiment. But mostly a bad idea done really well.
 git clone https://github.com/saucynandhu/bigno.git
 cd bigno
 open index.html
+
